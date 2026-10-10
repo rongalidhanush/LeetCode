@@ -42,10 +42,12 @@ Continuously updated as I solve more problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rongalidhanush/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rongalidhanush/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rongalidhanush/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rongalidhanush/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +60,16 @@ Continuously updated as I solve more problems.
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/rongalidhanush/LeetCode/tree/master/0060-permutation-sequence) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rongalidhanush/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rongalidhanush/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rongalidhanush/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
