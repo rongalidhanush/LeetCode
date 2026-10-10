@@ -50,4 +50,12 @@ Continuously updated as I solve more problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rongalidhanush/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/rongalidhanush/LeetCode/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/rongalidhanush/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
