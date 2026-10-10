@@ -35,3 +35,19 @@ Continuously updated as I solve more problems.
 
 **Platform:** [LeetCode](https://leetcode.com/)
 **Language:** Java / C / Python
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rongalidhanush/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rongalidhanush/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rongalidhanush/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
