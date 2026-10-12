@@ -44,6 +44,7 @@ Continuously updated as I solve more problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/rongalidhanush/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rongalidhanush/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rongalidhanush/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rongalidhanush/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Continuously updated as I solve more problems.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rongalidhanush/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rongalidhanush/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +79,12 @@ Continuously updated as I solve more problems.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rongalidhanush/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Hash Table
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rongalidhanush/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rongalidhanush/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
