@@ -59,6 +59,7 @@ Continuously updated as I solve more problems.
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/rongalidhanush/LeetCode/tree/master/0060-permutation-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/rongalidhanush/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Continuously updated as I solve more problems.
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rongalidhanush/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rongalidhanush/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/rongalidhanush/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rongalidhanush/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
